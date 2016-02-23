@@ -6,10 +6,45 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		642B8D69164D18A600FC57CB /* StdDraw.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = StdDraw.java; sourceTree = "<group>"; };
+		642B8D6D164D18D300FC57CB /* tank.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = tank.java; sourceTree = "<group>"; };
+		642B8D70164D2C7600FC57CB /* Leikur.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Leikur.java; sourceTree = "<group>"; };
+		643EC57D165A897C0049BF64 /* Point2D.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Point2D.java; sourceTree = "<group>"; };
+		64412D4D1653A5050082806B /* Bullet.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Bullet.java; sourceTree = "<group>"; };
+		64412D4F1653BB4E0082806B /* Alien.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Alien.java; sourceTree = "<group>"; };
+		64412D5C16551B5A0082806B /* Alien2.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Alien2.java; sourceTree = "<group>"; };
+		64412D5D1655525F0082806B /* Virki1.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Virki1.java; sourceTree = "<group>"; };
+		64412D5E1655525F0082806B /* Virki2.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Virki2.java; sourceTree = "<group>"; };
+		64412D5F1655525F0082806B /* Virki3.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Virki3.java; sourceTree = "<group>"; };
+		64412D60165558550082806B /* StdAudio.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = StdAudio.java; sourceTree = "<group>"; };
+		64412D6116555F6B0082806B /* Alien3.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Alien3.java; sourceTree = "<group>"; };
+		64412D62165564E20082806B /* Alien4.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Alien4.java; sourceTree = "<group>"; };
+		64412D6A165689ED0082806B /* screens.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = screens.java; sourceTree = "<group>"; };
+		64FA5B3F164DB900005DCBE6 /* Rectangle.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Rectangle.java; sourceTree = "<group>"; };
+		64FA5B40164DB97E005DCBE6 /* Shape.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Shape.java; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		642B8D60164D189300FC57CB = {
 			isa = PBXGroup;
 			children = (
+				642B8D70164D2C7600FC57CB /* Leikur.java */,
+				642B8D6D164D18D300FC57CB /* tank.java */,
+				64412D4D1653A5050082806B /* Bullet.java */,
+				64412D4F1653BB4E0082806B /* Alien.java */,
+				64412D5C16551B5A0082806B /* Alien2.java */,
+				64412D6116555F6B0082806B /* Alien3.java */,
+				64412D62165564E20082806B /* Alien4.java */,
+				64412D5D1655525F0082806B /* Virki1.java */,
+				64412D5E1655525F0082806B /* Virki2.java */,
+				64412D5F1655525F0082806B /* Virki3.java */,
+				64FA5B40164DB97E005DCBE6 /* Shape.java */,
+				64412D6A165689ED0082806B /* screens.java */,
+				64FA5B3F164DB900005DCBE6 /* Rectangle.java */,
+				643EC57D165A897C0049BF64 /* Point2D.java */,
+				64412D60165558550082806B /* StdAudio.java */,
+				642B8D69164D18A600FC57CB /* StdDraw.java */,
 			);
 			sourceTree = "<group>";
 		};
